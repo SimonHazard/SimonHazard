@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @SimonHazard
+# Hi, I’m @SimonHazard
+
+## French web developer 
+
 - 👀 I’m interested in ReactJS, TypeScript, C#
-- 🌱 I’m currently learning ReactJS, GameMaker Studio 2
-- 💞️ I’m looking to collaborate on Game development
+- 🌱 I’m currently learning ReactJS, GameMaker Studio 2 and many things
+- 💞️ I’m looking to collaborate on Game development and web development
 - 📫 How to reach me https://www.linkedin.com/in/simon-hazard-470ab9158/
 
 <!---
