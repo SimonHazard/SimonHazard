@@ -2,9 +2,9 @@
 
 ## French web developer 
 
-- 👀 I’m interested in ReactJS, TypeScript, C#
-- 🌱 I’m currently learning ReactJS, GameMaker Studio 2 and many things
-- 💞️ I’m looking to collaborate on Game development and web development
+- 👀 I’m interested in ReactJS with TypeScript
+- 🌱 I’m currently working with ReactJS (TypeScript), Apollo, GraphQL and many things
+- 💞️ I’m looking to collaborate on web development or game development
 - 📫 How to reach me https://www.linkedin.com/in/simon-hazard-470ab9158/
 
 <!---
