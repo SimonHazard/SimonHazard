@@ -3,7 +3,7 @@
 ## French web developer 
 
 - 👀 I’m interested in React with TypeScript
-- 🤖 AI vibe coding enjoyer (Claude Code)
+- 🤖 AI vibe coding enjoyer (Claude Code, Mistral Vibe, Codex)
 - 🌱 I’m currently working with React (TypeScript), Apollo Server, GraphQL and many things
 - 💞️ I’m looking to collaborate on web development or game development
 - 📫 How to reach me https://www.linkedin.com/in/simon-hazard-470ab9158/ | https://simonhazard.com/
